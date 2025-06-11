@@ -43,6 +43,7 @@
 * [Laroza TV](https://tv.laroza.now/) - TV
 * [witanime](https://witanime.cyou/) - Anime / Sub / 1080p
 * [okanime](https://okanime.tv/) - Anime / Sub / 1080p / Region Locked
+* [animeslayer](https://animeslayerweb.site/) - Anime
 * [ristoanime](https://ristoanime.com/) - Anime
 * [animezid](https://animezid.net/) - Anime / Cartoons
 * [arabic-toons](https://www.arabic-toons.com/) - Cartoons
